@@ -347,6 +347,12 @@ h3 {
 	text-shadow: 2px 2px #FF0066;
 }
 
+.projects-capstone2::before {
+	content: "Capstone 02";
+	border-bottom: 5px solid #FF0066;
+	text-shadow: 2px 2px #FF0066;
+}
+
 .projects-ukay::before {
 	content: "Okay ukay";
 	border-bottom: 5px solid #FF0066;
